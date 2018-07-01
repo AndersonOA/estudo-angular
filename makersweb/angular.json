@@ -25,7 +25,24 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/admin-lte/plugins/jquery/jquery.min.js",
+              "node_modules/admin-lte/plugins/jQueryUI/jquery-ui.js",
+              "node_modules/admin-lte/plugins/bootstrap/js/bootstrap.min.js",
+              "node_modules/raphael/raphael.js",
+              "node_modules/admin-lte/plugins/morris/morris.min.js",
+              "node_modules/admin-lte/plugins/sparkline/jquery.sparkline.min.js",
+              "node_modules/admin-lte/plugins/knob/jquery.knob.js",
+              "node_modules/moment/moment.js",
+              "node_modules/admin-lte/plugins/daterangepicker/daterangepicker.js",
+              "node_modules/admin-lte/plugins/datepicker/bootstrap-datepicker.js",
+              "node_modules/admin-lte/plugins/slimScroll/jquery.slimscroll.js",
+              "node_modules/admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js",
+              "node_modules/admin-lte/plugins/iCheck/icheck.js",
+              "node_modules/admin-lte/dist/js/adminlte.js",
+              "src/assets/js/adminLTEOptions.js",
+              "src/assets/js/scripts.js"
+            ]
           },
           "configurations": {
             "production": {
